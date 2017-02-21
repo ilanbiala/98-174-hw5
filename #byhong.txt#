@@ -1,0 +1,15 @@
+1.1 git remote add origin byhong@unix.andrew.cmu.edu:/afs/andrew/course/98/174/public/hw5repo
+
+1.2 Fetch and push paths would be the file location of the repo on AFS.
+
+2.1 No, I didn't merge anything with files from the remote repo.
+
+2.2 git merge origin/master
+
+2.3 git branch
+
+2.4 done
+
+2.5  
+
+7. Use fetch when you plan to merge your own repo later, since pull auto merges.
