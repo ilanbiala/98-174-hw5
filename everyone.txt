@@ -1,4 +1,4 @@
-meow
+﻿meow
 
 Ilan was here! :) I'm here too
 Brendan was here!
@@ -13,11 +13,11 @@ Aaron was here too!
 WAAAAAAAAAZZZZZUUUUUUUUPPPP aaaaaaaarroooooooooonnnn
 
 Oh, never mind Aaron is here too:) wow everyone is here
-meow
+meow CHANGE 1
 Josh was here!
-The better Josh was here, too!
+The better Josh was here, too! CHANGE 2
 Someone not named Josh was here!
-Dan was here~ this was so much fun
+Dan was here~ this was so much fun CHANGE 3
 *_*
 
 ^-^meow
