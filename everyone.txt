@@ -1,4 +1,4 @@
-meow
+﻿meow
 hello change1
 Ilan was here! :) I'm here too
 Brendan was here! hello change 2
@@ -7,7 +7,7 @@ Brendan was here!
 Hmm... seems like no one else is here :( no I'm here
 Brendan was here!
 meow
-woof
+woof *bork*
 Aaron was here too!
 :) :) :) :)hello change 3
 ^^ I know that guy!
@@ -22,7 +22,7 @@ Dan was here~ this was so much fun
 *_*
 
 ^-^meow
-
+10/10
 ヽ(`⏠´)ﾉ
 
 Anyone know where I could find an unicorn onesie?
@@ -38,4 +38,5 @@ I'm also here
 Midterms are comming up, good luck everyone
 Just bombed a midterm today!!!!!
 Memes
+gr8
 
